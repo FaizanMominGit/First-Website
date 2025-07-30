@@ -11,7 +11,7 @@ This repository hosts "First-Website," a basic micro-project developed during my
 ## Technologies Used
 
 * **HTML:** For the core structure and content of the web page.
-* **CSS:** (If applicable) For basic styling and layout.
+* **CSS:**  For basic styling and layout.
 
 ---
 
